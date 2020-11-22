@@ -1,0 +1,24 @@
+/* FLOATS */
+.float-left { float: left; }
+.float-right { float: right; }
+.clearfix { clear: both; }
+
+/* MARGINS - MAR=margin, RT=right, and then number */
+.mar-rt-5 { margin-right: 5px; }
+.mar-rt-10 { margin-right: 10px; }
+.mar-rt-15 { margin-right: 15px; }
+
+/* MARGINS - MAR=margin, LT=right, and then number */
+.mar-lt-5 { margin-left: 5px; }
+.mar-lt-10 { margin-left: 10px; }
+.mar-lt-15 { margin-left: 15px; }
+
+/* PADS - PAD=padding, RT=right, and then number */
+.pad-rt-5 { padding-right: 5px; }
+.pad-rt-10 { padding-right: 10px; }
+.pad-rt-15 { padding-right: 15px; }
+
+/* PADS - PAD=margin, LT=right, and then number */
+.pad-lt-5 { padding-left: 5px; }
+.pad-lt-10 { padding-left: 10px; }
+.pad-lt-15 { padding-left: 15px; }
